@@ -1,0 +1,9 @@
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\IPCalculator\IPCalcGUI\bin\Debug\IPCalcGUI.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\IPCalculator\IPCalcGUI\bin\Debug\IPCalcGUI.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\IPCalculator\IPCalcGUI\bin\Debug\IPCalcGUI.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\IPCalculator\IPCalcGUI\obj\Debug\IPCalcGUI.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\IPCalculator\IPCalcGUI\obj\Debug\IPCalcGUI.MainForm.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\IPCalculator\IPCalcGUI\obj\Debug\IPCalcGUI.Properties.Resources.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\IPCalculator\IPCalcGUI\obj\Debug\IPCalcGUI.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\IPCalculator\IPCalcGUI\obj\Debug\IPCalcGUI.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\IPCalculator\IPCalcGUI\obj\Debug\IPCalcGUI.pdb
